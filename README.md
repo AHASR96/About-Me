@@ -1,13 +1,11 @@
-Below is the combined and refined GitHub profile README. It includes your software, CAD, manufacturing, scientific, laboratory, electronics and language background while keeping the tone measured and credible.
-
 ```md
 # Emir / Amir
 
 **Software Developer and CAD Designer at Kronorm International**
 
-I work across software development, engineering design, manufacturing and the life sciences. My background includes **medical engineering, biomedical sciences, laboratory work and practical manufacturing**, which has given me a broad technical perspective and an appreciation for disciplined problem-solving.
+I work across software development, engineering design, manufacturing and the life sciences. My background includes **medical engineering, biomedical sciences, laboratory work and practical manufacturing**, which has given me a broad technical perspective and a strong appreciation for disciplined problem-solving.
 
-Most of my current development work involves **private internal software and engineering tools for Kronorm International**, so much of my contribution activity is not publicly visible.
+Most of my current development work involves **private internal software and engineering tools for Kronorm International**. As a result, much of my GitHub contribution activity is connected to repositories that cannot be made publicly available.
 
 I consider myself a lifelong learner. I do not claim equal mastery across every technology or discipline listed here. Some are tools I use professionally, some come from previous academic or practical experience, and others are areas I am actively developing through structured study and personal projects.
 
@@ -17,7 +15,7 @@ I consider myself a lifelong learner. I do not claim equal mastery across every 
 
 My programming experience includes:
 
-### Languages
+### Programming Languages
 
 - JavaScript
 - TypeScript
@@ -40,6 +38,7 @@ I am particularly interested in building:
 - Data-driven systems
 - Educational platforms
 - Full-stack web applications
+- Software that connects engineering processes with practical business requirements
 
 ---
 
@@ -54,7 +53,14 @@ I have experience working with tools and libraries including:
 - MATLAB
 - SPSS
 
-My interests include data analysis, scientific computing, statistical interpretation and applying software to engineering and scientific problems.
+My interests include:
+
+- Data analysis
+- Scientific computing
+- Statistical interpretation
+- Data visualisation
+- Applying software to scientific and engineering problems
+- Using data to support practical decision-making
 
 ---
 
@@ -68,16 +74,19 @@ I use **SolidWorks** for mechanical and industrial design, with experience in:
 - Technical drawings
 - Design for fabrication
 - Engineering documentation
+- Production-oriented design
+- Considering manufacturing constraints during the design process
 
 In **June 2026**, I began a focused learning path aimed at developing advanced capability in:
 
 - Complex surface modelling
 - Advanced part modelling
 - Freeform geometry
-- Production-oriented surfacing workflows
+- Production-ready surfacing workflows
 - Complex mechanical geometry
+- Higher-level product modelling techniques
 
-This is a long-term mastery project based on consistent practice and increasingly complex modelling challenges.
+This is a long-term mastery project based on consistent practice, strong fundamentals and increasingly complex modelling challenges.
 
 ---
 
@@ -95,13 +104,21 @@ Alongside CAD and software development, I have practical experience with manufac
 - Circuit analysis
 - Electronic circuit simulation
 
-This practical experience helps me consider real manufacturing constraints when designing components, assemblies and engineering systems.
+This practical experience helps me design with real manufacturing constraints in mind rather than treating CAD models as purely theoretical geometry.
 
-I am interested in understanding the complete development process, from initial concept and digital design through manufacturing, electronics and software integration.
+I am interested in understanding the complete engineering process, including:
+
+- Initial concept development
+- Digital design
+- Manufacturing
+- Mechanical assembly
+- Electronics
+- Software integration
+- Testing and refinement
 
 ---
 
-## Electronics and Circuit Tools
+## Electronics and Circuit Experience
 
 My electronics-related experience includes:
 
@@ -109,10 +126,11 @@ My electronics-related experience includes:
 - Circuit construction and testing
 - Circuit analysis
 - Electronic simulation using NI Multisim
-- Hardware–software interaction
 - Fundamental electrical and electronic principles
+- Hardware–software interaction
+- Developing an understanding of embedded systems
 
-I am continuing to develop my knowledge of embedded systems and the relationship between software, electronics and physical hardware.
+I am continuing to strengthen my knowledge of electronics, embedded computing and the relationship between software, circuits and physical hardware.
 
 ---
 
@@ -129,7 +147,16 @@ My scientific background includes **medical engineering and biomedical sciences*
 - Laboratory methods
 - Scientific analysis
 
-I have approximately **two years of laboratory experience**, including work in practical laboratory environments and experience following structured experimental procedures.
+I have approximately **two years of laboratory experience**, including working in practical laboratory environments and following structured experimental procedures.
+
+My laboratory experience has involved areas such as:
+
+- Following established protocols
+- Handling scientific equipment
+- Recording and analysing results
+- Maintaining accurate documentation
+- Working carefully within controlled environments
+- Applying evidence-based reasoning
 
 I have also worked with tools and systems including:
 
@@ -160,8 +187,17 @@ My current learning areas include:
 - Hardware–software interaction
 - Microcontroller fundamentals
 - Computer architecture fundamentals
+- Operating-system concepts
 
-I am interested in understanding computing below the application layer: how software interacts with hardware, how operating systems manage resources and how information moves across networks.
+I am interested in understanding computing below the application layer, including:
+
+- How software communicates with hardware
+- How processors execute instructions
+- How memory is organised and managed
+- How operating systems manage resources
+- How embedded systems operate under limited resources
+- How information moves across networks
+- How network protocols are implemented in software
 
 These are active areas of study rather than subjects in which I claim complete mastery.
 
@@ -171,7 +207,7 @@ These are active areas of study rather than subjects in which I claim complete m
 
 I am currently developing a **free educational platform for learning the fundamentals of C++**.
 
-The platform is intended to make core programming concepts accessible through:
+The platform is intended to make core programming concepts easier to understand through:
 
 - Clear explanations
 - Progressive exercises
@@ -180,8 +216,58 @@ The platform is intended to make core programming concepts accessible through:
 - Beginner-friendly problem-solving
 - Structured learning paths
 - Practice-based progression
+- A strong focus on understanding rather than memorisation
 
 The project will be published publicly when it reaches a suitable stage of development.
+
+My aim is to create a resource that helps beginners build a reliable foundation before moving on to more advanced areas of programming.
+
+---
+
+## Future Academic Goals
+
+In the future, I hope to continue my formal education by pursuing:
+
+- An undergraduate degree in **Electrical Engineering**
+- A master’s degree in **Biomechatronics**
+
+These goals reflect my interest in bringing together:
+
+- Software development
+- Electronics
+- Mechanical systems
+- Control systems
+- Embedded computing
+- Biomedical science
+- Human-centred engineering
+
+Studying electrical engineering would allow me to develop a stronger academic foundation in areas such as:
+
+- Circuit theory
+- Electronic design
+- Digital systems
+- Embedded systems
+- Control engineering
+- Signal processing
+- Instrumentation
+- Electrical machines
+- Communication systems
+
+Biomechatronics is a longer-term academic goal because it brings together several fields that strongly interest me, including:
+
+- Biomedical engineering
+- Mechanical design
+- Electronics
+- Robotics
+- Sensors
+- Embedded software
+- Control systems
+- Human–machine interaction
+- Assistive technology
+- Rehabilitation engineering
+- Prosthetic and wearable systems
+
+These are future academic ambitions rather than completed qualifications. Until then, I intend to continue building the necessary foundations through practical work, independent study and technical projects.
 
 ---
 
@@ -193,11 +279,15 @@ At present, I am concentrating on:
 2. Developing practical engineering and business tools
 3. Improving my full-stack development capabilities
 4. Advancing my SolidWorks surfacing and complex-modelling skills
-5. Studying systems programming and computer architecture
-6. Learning networking and TCP/IP programming
-7. Exploring bare-metal and embedded programming
-8. Developing my free C++ educational platform
-9. Preparing independent projects for future open-source publication
+5. Strengthening my knowledge of data analysis and scientific computing
+6. Studying systems programming and computer architecture
+7. Learning networking and TCP/IP programming
+8. Exploring bare-metal and embedded programming
+9. Strengthening my foundations in electronics and electrical engineering
+10. Developing my free C++ educational platform
+11. Preparing independent projects for future open-source publication
+12. Preparing for future undergraduate study in electrical engineering
+13. Working toward the long-term goal of postgraduate study in biomechatronics
 
 ---
 
@@ -212,7 +302,7 @@ At present, I am concentrating on:
 ### Currently Developing
 
 - Turkish — actively learning
-- German — reading and general understanding
+- German — general understanding
 - French — basic knowledge
 
 ---
@@ -224,4 +314,6 @@ I believe technical ability is built through patience, repetition and a willingn
 My experience spans several disciplines, but I remain aware of how much there is still to learn. I aim to improve through practical work, careful study and projects that solve real problems.
 
 Rather than treating software, engineering, manufacturing and science as separate subjects, I am interested in understanding how they connect and how knowledge from one discipline can strengthen work in another.
+
+My long-term goal is not simply to collect technologies or qualifications, but to develop a deeper understanding of how software, electronics, mechanical systems and the life sciences can be combined to create useful and well-engineered solutions.
 ```
