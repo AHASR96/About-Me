@@ -37,6 +37,7 @@ I have experience working with:
 - Matplotlib
 - scikit-learn
 - SPSS
+- Matlab
 
 My interests include data analysis, scientific computing, statistical interpretation and applying software tools to engineering and scientific problems.
 
