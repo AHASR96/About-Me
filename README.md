@@ -138,6 +138,16 @@ At present, I am concentrating on:
 
 ---
 
+## Spoken Languages
+- Dutch
+- English
+- Farsi
+
+## Learning
+- Turkish (avtively Learning)
+- German (Understand)
+- French (very Basic)
+
 ## Learning Philosophy
 
 I believe technical ability is built through patience, repetition and a willingness to return to the fundamentals.
